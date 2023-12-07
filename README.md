@@ -1,2 +1,2 @@
-# asistivna_tehnologija_projekt_KOMUNIKATOR
-Komunikator upravljan pokretom očiju.
+# Projekt iz kolegija Asistivna tehnologija
+Komunikator upravljan pokretom očiju napravljen za korisnike Centra za odgoj i obrazovanje u Rijeci.
