@@ -1,0 +1,2 @@
+# asistivna_tehnologija_projekt_KOMUNIKATOR
+Komunikator upravljan pokretom očiju.
