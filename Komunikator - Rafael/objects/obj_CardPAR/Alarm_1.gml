@@ -1,0 +1,1 @@
+/// @desc Timer to stop pressing more buttons at the same time
