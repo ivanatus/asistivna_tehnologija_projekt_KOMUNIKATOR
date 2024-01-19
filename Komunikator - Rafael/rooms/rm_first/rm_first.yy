@@ -21,10 +21,12 @@
     {"name":"inst_5727EF72","path":"rooms/rm_first/rm_first.yy",},
     {"name":"inst_2220AC9","path":"rooms/rm_first/rm_first.yy",},
     {"name":"inst_4DED8309","path":"rooms/rm_first/rm_first.yy",},
+    {"name":"inst_9C8AB75","path":"rooms/rm_first/rm_first.yy",},
   ],
   "isDnd": false,
   "layers": [
     {"resourceType":"GMRInstanceLayer","resourceVersion":"1.0","name":"Instances","depth":0,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
+        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_9C8AB75","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_VoiceController","path":"objects/obj_VoiceController/obj_VoiceController.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":1344.0,"y":736.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_5C8ECE9B","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_SwitchRoom","path":"objects/obj_SwitchRoom/obj_SwitchRoom.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":1323.0,"y":384.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_71905B9C","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_GlasA","path":"objects/obj_GlasA/obj_GlasA.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":1152.0,"y":576.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_1BB6E809","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_GlasB","path":"objects/obj_GlasB/obj_GlasB.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":1152.0,"y":672.0,},
